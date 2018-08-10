@@ -1,6 +1,6 @@
 /**
  * Class to show examples of Addition.
- *
+ * @author Udayan Khattry
  */
 public class _01Addition {
     public static void main(String [] args) {

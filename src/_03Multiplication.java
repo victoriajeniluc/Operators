@@ -1,5 +1,6 @@
 /**
  * Class to show multiplication
+ * @author Udayan Khattry
  */
 
 public class _03Multiplication {

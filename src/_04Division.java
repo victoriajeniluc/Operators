@@ -1,5 +1,6 @@
 /**
  * Class to show examples of division
+ * @author Udayan Khattry
  */
 public class _04Division {
     public static void main(String[] args) {

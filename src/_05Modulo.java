@@ -1,5 +1,6 @@
 /**
  * Class to show examples for modulo
+ * @author Udayan Khattry
  */
 public class _05Modulo {
     public static void main(String[] args) {

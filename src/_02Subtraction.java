@@ -1,5 +1,6 @@
 /**
  * Class to show examples of subtraction operators
+ * @author Udayan Khattry
  */
 public class _02Subtraction {
     public static void main(String[] args) {
